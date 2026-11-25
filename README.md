@@ -4,7 +4,7 @@
 Secure Password Analyzer & Hasher is a Python-based command-line
 cybersecurity application designed to analyze password strength,
 generate secure password hashes using Argon2id, and verify passwords
-against their stored hashes.
+against their generated hashes.
 
 The application uses the zxcvbn library to estimate password strength
 and the Argon2id algorithm for password hashing.
@@ -63,7 +63,7 @@ and the Argon2id algorithm for password hashing.
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/Secure-Password-Analyzer-Hasher.git
+   git clone https://github.com/abin-a-k/Secure-Password-Analyzer-Hasher.git
 
 2. Navigate to the project directory:
 
